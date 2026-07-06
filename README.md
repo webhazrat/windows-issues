@@ -17,7 +17,7 @@ Run as administrator
 3. w32tm /register
 4. net start w32time
 
-Configure NTP Server
+Configure NTP Server :
 w32tm /config /manualpeerlist:"time.cloudflare.com,0x8 time.google.com,0x8 pool.ntp.org,0x8" /syncfromflags:manual /update
 
 Restart and Resync the Service
