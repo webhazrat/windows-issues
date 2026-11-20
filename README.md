@@ -26,9 +26,9 @@ Restart and Resync the Service
 3. w32tm /resync /force
 
 # Test Laptop
-Battery Health : powercfg /batteryreport
-Motherboard : wmic baseboard get product,Manufacturer,version,serialnumber 
-Dead Pixel: https://www.eizo.be/monitor-test/
-Keyboard: https://www.iobit.com/en/keyboard-test.php
+1. Battery Health : powercfg /batteryreport
+2. Motherboard : wmic baseboard get product,Manufacturer,version,serialnumber 
+3. Dead Pixel: https://www.eizo.be/monitor-test/
+4. Keyboard: https://www.iobit.com/en/keyboard-test.php
 
-Need to check: Serial, Battery, Born, Display, Keyboard, Camera, Audio, Tackpad, Charge with charger
+5. Need to check: Serial, Battery, Born, Display, Keyboard, Camera, Audio, Tackpad, Charge with charger
