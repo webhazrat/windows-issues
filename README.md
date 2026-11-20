@@ -24,3 +24,9 @@ Restart and Resync the Service
 1. net stop w32time
 2. net start w32time
 3. w32tm /resync /force
+
+Battery Health : powercfg /batteryreport
+
+Motherboard : wmic baseboard get product,Manufacturer,version,serialnumber 
+
+Issue checking : PERFMON /REPORT
