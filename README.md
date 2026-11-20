@@ -25,8 +25,10 @@ Restart and Resync the Service
 2. net start w32time
 3. w32tm /resync /force
 
+# Test Laptop
 Battery Health : powercfg /batteryreport
-
 Motherboard : wmic baseboard get product,Manufacturer,version,serialnumber 
+Dead Pixel: https://www.eizo.be/monitor-test/
+Keyboard: https://www.iobit.com/en/keyboard-test.php
 
-Issue checking : PERFMON /REPORT
+Need to check: Serial, Battery, Born, Display, Keyboard, Camera, Audio, Tackpad, Charge with charger
