@@ -32,3 +32,5 @@ Restart and Resync the Service
 4. Keyboard: https://www.iobit.com/en/keyboard-test.php
 
 5. Need to check: Serial, Battery, Born, Display, Keyboard, Camera, Audio, Tackpad, Charge with charger
+6. Product Key: Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\SoftwareProtectionPlatform
