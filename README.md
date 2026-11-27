@@ -1,5 +1,8 @@
 # windows-issues
 
+## Winget upgrade
+   1. winget upgrade --all
+
 ## 1. tasklist command missing issue
 1. Open Command Prompt as Administrator
 2. Run the WMI repair commands
